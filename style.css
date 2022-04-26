@@ -1,0 +1,8 @@
+.nav-container{
+	background-color: green;
+}
+.nav-link {
+	text-transform: uppercase ;
+	text-decoration: none;
+	padding-right: 1em;
+}
